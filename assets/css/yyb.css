@@ -1,0 +1,19 @@
+.news {
+	background: #FFFFFF;
+	border-radius: 0.75rem;
+	overflow: hidden;
+	padding: 0 2rem;
+}
+
+.newsimg {
+	width: 100%;
+	height: 100%;
+	border-radius: 0.75rem;
+	opacity: 1;
+}
+
+@media (max-width: 576px) {
+	/* .news {
+		display: none !important;
+	} */
+}
